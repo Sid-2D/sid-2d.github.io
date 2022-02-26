@@ -27,7 +27,7 @@ export default function Navbar() {
           target="_blank"
           rel="noreferrer"
         >
-          Hire Me
+          Contact Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
         </a>
       </div>
