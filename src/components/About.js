@@ -20,7 +20,7 @@ export default function About() {
               target="_blank"
               rel="noreferrer"
             >
-              Work With Me
+              Contact Me
             </a>
             <a
               href="#projects"
